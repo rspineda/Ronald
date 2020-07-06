@@ -22,3 +22,8 @@ def suma2(num1,num2):
 suma2(5,7)
 
 
+def suma3(num1,num2):
+    resultado = num1*num2
+    return resultado
+
+print(suma3(10,6))
